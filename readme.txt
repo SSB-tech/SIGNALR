@@ -1,1 +1,0 @@
-Implemented SignalR. You can use Signal R to create a real time application. 
